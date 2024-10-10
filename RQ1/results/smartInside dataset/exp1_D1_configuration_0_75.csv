@@ -1,0 +1,61 @@
+model,accuracy,config
+random-forest,0.904615385,"['PSNR', 'CS', 'CPL']"
+SVM,0.901538462,"['PSNR', 'CS']"
+SVM,0.898461538,['CS']
+SVM,0.898461538,"['CS', 'CPL']"
+SVM,0.898461538,"['CS', 'SSIM', 'CPL']"
+random-forest,0.898461538,"['PSNR', 'CS', 'SSIM']"
+random-forest,0.895384615,"['PSNR', 'CS']"
+SVM,0.895384615,"['CS', 'SSIM']"
+random-forest,0.895384615,"['CS', 'CPL']"
+logistic-regression,0.895384615,"['PSNR', 'CS', 'CPL']"
+logistic-regression,0.895384615,"['PSNR', 'CS', 'SSIM', 'CPL']"
+random-forest,0.895384615,"['PSNR', 'CS', 'SSIM', 'CPL']"
+logistic-regression,0.889230769,"['PSNR', 'CS']"
+logistic-regression,0.889230769,"['CS', 'CPL']"
+logistic-regression,0.889230769,"['CS', 'SSIM', 'CPL']"
+random-forest,0.889230769,"['CS', 'SSIM', 'CPL']"
+SVM,0.889230769,"['PSNR', 'CS', 'CPL']"
+logistic-regression,0.889230769,"['PSNR', 'CS', 'SSIM']"
+SVM,0.889230769,"['PSNR', 'CS', 'SSIM', 'CPL']"
+logistic-regression,0.886153846,"['CS', 'SSIM']"
+SVM,0.883076923,"['PSNR', 'CS', 'SSIM']"
+logistic-regression,0.88,['CS']
+random-forest,0.88,"['CS', 'SSIM']"
+decision-tree,0.870769231,"['CS', 'SSIM', 'CPL']"
+decision-tree,0.858461538,"['CS', 'CPL']"
+decision-tree,0.858461538,"['PSNR', 'CS', 'SSIM']"
+decision-tree,0.852307692,"['PSNR', 'CS']"
+decision-tree,0.852307692,"['PSNR', 'CS', 'SSIM', 'CPL']"
+random-forest,0.849230769,['CS']
+decision-tree,0.849230769,['CS']
+decision-tree,0.846153846,"['PSNR', 'CS', 'CPL']"
+decision-tree,0.836923077,"['CS', 'SSIM']"
+SVM,0.833846154,"['PSNR', 'SSIM', 'CPL']"
+SVM,0.827692308,"['SSIM', 'CPL']"
+logistic-regression,0.827692308,"['PSNR', 'SSIM', 'CPL']"
+logistic-regression,0.821538462,"['PSNR', 'CPL']"
+SVM,0.821538462,"['PSNR', 'CPL']"
+logistic-regression,0.815384615,"['SSIM', 'CPL']"
+random-forest,0.809230769,"['PSNR', 'SSIM', 'CPL']"
+SVM,0.806153846,"['PSNR', 'SSIM']"
+logistic-regression,0.803076923,"['PSNR', 'SSIM']"
+SVM,0.796923077,['SSIM']
+SVM,0.796923077,['CPL']
+logistic-regression,0.793846154,['SSIM']
+logistic-regression,0.793846154,['CPL']
+random-forest,0.793846154,"['PSNR', 'SSIM']"
+random-forest,0.790769231,"['PSNR', 'CPL']"
+random-forest,0.784615385,"['SSIM', 'CPL']"
+decision-tree,0.769230769,"['PSNR', 'SSIM', 'CPL']"
+decision-tree,0.76,"['PSNR', 'CPL']"
+SVM,0.756923077,['PSNR']
+random-forest,0.756923077,['CPL']
+decision-tree,0.756923077,['CPL']
+logistic-regression,0.750769231,['PSNR']
+decision-tree,0.726153846,"['PSNR', 'SSIM']"
+decision-tree,0.698461538,"['SSIM', 'CPL']"
+random-forest,0.689230769,['SSIM']
+decision-tree,0.689230769,['SSIM']
+random-forest,0.624615385,['PSNR']
+decision-tree,0.624615385,['PSNR']
